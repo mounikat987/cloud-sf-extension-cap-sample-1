@@ -1,6 +1,6 @@
 {
-    "emname": "<yourmessageclientname>",
-    "namespace": "<yourorgname>/<yourmessageclientname>/<uniqueID>",
+    "emname": "client1",
+    "namespace": "SFSubdomain/client1/abcd",
     "version": "1.1.0",
     "options": {
         "management": true,
